@@ -82,11 +82,11 @@ The **Leap Motion Controller**, launched in 2013 by Leap Motion Inc. (now Ultral
     - Under **Input** for _LeapToAbleton_, check **Track** and **Remote**  
     - **Output** is optional unless you plan to send MIDI externally
 
-![[Pasted image 20250329182237.png]]  
+[![[Pasted image 20250329182237.png]]](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/blob/d9cafa993b1d7b171980e06bd12c4755ca552b25/Link%2C%20Tempo%20%26%20MIDI.png)  
 This setup links the virtual MIDI port created with [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), used in [MIDI Paw](https://midipaw.com/), with [Ableton Live 12](https://www.ableton.com/en/) and [[🖐️ Leap Motion]]
 
 - Example routing:  
-![[Pasted image 20250329182637.png]]
+[![[Pasted image 20250329182637.png]]](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/blob/d9cafa993b1d7b171980e06bd12c4755ca552b25/AL-Template-view.png)
 
 | Track       | MIDI From     | Audio/MIDI To | Monitor |
 |-------------|---------------|----------------|---------|
