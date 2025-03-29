@@ -2,7 +2,7 @@
 ![Ableton Live](https://img.shields.io/badge/Ableton-Live%2012-orange?logo=ableton)
 ![Leap Motion](https://img.shields.io/badge/Leap%20Motion-Gemini%20v5-blue)
 
-# 🖐🏻 Leap Motion + Ableton Live 12 Integration
+# 🖐🏻 Leap Motion → 🎛️🎹 Ableton Live 12 Integration
 
 This repository provides a fully documented setup for integrating the **Leap Motion Controller** with **Ableton Live 12**, allowing for expressive and gestural control over instruments and effects using spatial hand movements.
 
