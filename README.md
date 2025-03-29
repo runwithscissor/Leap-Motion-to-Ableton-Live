@@ -39,7 +39,7 @@ For a full guide on installation and configuration, see the file:
 - TouchDesigner integration for real-time visuals
 - Interactive routing presets for different workflows
 
-## 🖋️ Author
+## ✍🏻 Author
 Project and documentation by [runwithscissor](https://github.com/runwithscissor) — visual designer and music enthusiast.
 
 🎛️ [Instagram](https://www.instagram.com/tuo_username)
