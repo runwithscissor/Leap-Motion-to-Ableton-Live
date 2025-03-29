@@ -37,7 +37,6 @@ For a full guide on installation and configuration, see the file:
 
 ## 🖋️ Author
 Project and documentation by [runwithscissor](https://github.com/runwithscissor) — visual designer and music enthusiast.
-
 🎛️ [Instagram](https://www.instagram.com/tuo_username)  
 📩 For collabs or feedback: carminedoesdesign@gmail.com
 
