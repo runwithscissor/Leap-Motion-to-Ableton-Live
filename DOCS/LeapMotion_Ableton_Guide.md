@@ -1,6 +1,6 @@
 🖐🏻 Leap Motion  
 # Ableton Live Template  
-[LeapMotion-AbletonTemplate.als](TEMPLATE/LeapMotion-AbletonTemplate.als)
+[LeapMotion-AbletonTemplate.als](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/blob/7e6afa2e0629cd48ac56c1081b44a0a1341ce6e4/TEMPLATE/LeapMotion-AbletonTemplate.als)
 
 # 📄 Overview  
 The **Leap Motion Controller**, launched in 2013 by Leap Motion Inc. (now Ultraleap), is an **infrared tracking device** capable of detecting hand and finger movements in 3D space with high precision and without physical contact. Originally designed for touchless interaction in 3D/VR environments, it was quickly adopted by artists and developers as an **alternative controller for musical instruments, effects, and interactive visuals**, thanks to its ability to transmit OSC or MIDI data in real-time.
