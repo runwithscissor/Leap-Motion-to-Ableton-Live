@@ -1,4 +1,4 @@
-🖐️ Leap Motion  
+🖐🏻 Leap Motion  
 # Ableton Live Template  
 [Template Leap Motion + MIDI Paw 2.als](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/blob/5e2902b79d35cee3031d8d8121a21d4074c16f1b/Template%20Leap%20Motion%20%2B%20MIDI%20Paw.als)
 
