@@ -88,7 +88,7 @@ The **Leap Motion Controller**, launched in 2013 by Leap Motion Inc. (now Ultral
 This setup links the virtual MIDI port created with [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), used in [MIDI Paw](https://midipaw.com/), with [Ableton Live 12](https://www.ableton.com/en/) and [[🖐️ Leap Motion]]
 
 - Example routing:  
-![AL-Template-view.png](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/raw/main/screenshots/AL-Template-view.png)
+![AL-Template-view.png](https://github.com/runwithscissor/Leap-Motion-to-Ableton-Live/blob/db753c0228666fe3802f7fafd4d3ca37f49f5bdc/AL-Template-view.png)
 
 | Track       | MIDI From     | Audio/MIDI To | Monitor |
 |-------------|---------------|----------------|---------|
