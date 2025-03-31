@@ -44,7 +44,7 @@ Project and documentation by [runwithscissor](https://github.com/runwithscissor)
 
 📩 For collabs or feedback: carminedoesdesign@gmail.com
 
-🎛️ Check my [Instagram](https://www.instagram.com/runwithscissor)
+📷 Check my [Instagram](https://www.instagram.com/runwithscissor)
 
 ---
 
