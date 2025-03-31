@@ -11,7 +11,7 @@ Transform the Leap Motion into an expressive **theremin-style controller** for t
 
 ## 🧩 Included in this Repository
 - `LeapMotion_Ableton_Guide.md`: Full step-by-step guide (EN)
-- `Template Leap Motion + MIDI Paw 2.als`: Ableton Live 12 project template
+- `LeapMotion-AbletonTemplate.als`: Ableton Live 12 project template
 - Screenshots and routing diagrams for setup reference
 
 ## ⚙️ Technologies Used
